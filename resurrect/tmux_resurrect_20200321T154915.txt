@@ -1,7 +1,0 @@
-pane	0	0	:bash	1	:*	0	:/home/nadav	1	bash	:
-pane	0	0	:bash	1	:*	1	:/home/nadav	0	bash	:
-pane	0	0	:bash	1	:*	2	:/home/nadav	0	bash	:
-pane	0	1	:bash	0	:-	0	:/home/nadav	1	bash	:
-window	0	0	1	:*	c1a6,150x39,0,0{75x39,0,0,0,74x39,76,0[74x19,76,0,1,74x19,76,20,2]}
-window	0	1	0	:-	cdc0,150x39,0,0,3
-state	0	
